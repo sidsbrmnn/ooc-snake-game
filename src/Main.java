@@ -9,7 +9,7 @@ public class Main {
 		Gameplay gameplay = new Gameplay();
 
 		jf.setBounds(10, 10, 905, 700);
-		jf.setBackground(Color.DARK_GRAY);
+		jf.setBackground(Color.darkGray);
 		jf.setResizable(false);
 		jf.setVisible(true);
 		jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
